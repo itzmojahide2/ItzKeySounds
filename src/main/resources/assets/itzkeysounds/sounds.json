@@ -1,0 +1,7 @@
+{
+  "keyboard.key1": { "sounds": [ "keyboard/key1" ] },
+  "keyboard.key2": { "sounds": [ "keyboard/key2" ] },
+  "keyboard.key3": { "sounds": [ "keyboard/key3" ] },
+  "mouse.left":  { "sounds": [ "mouse/left" ] },
+  "mouse.right": { "sounds": [ "mouse/right" ] }
+}
